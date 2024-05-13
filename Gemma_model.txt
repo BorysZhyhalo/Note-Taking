@@ -1,0 +1,3 @@
+https://huggingface.co/google/gemma-2b
+https://github.com/AleNunezArroyo/Medium/blob/main/code/MediumT3.ipynb
+https://medium.com/@AleNunezArroyo/run-google-gemma-llama-cpp-gguf-inference-in-google-colab-ecb1c03bc440
